@@ -3,7 +3,7 @@
 This is a simple Python script that allows you to convert WebP images to JPG format. The script comes with a graphical user interface (GUI) built using PyQt5, making it easy and intuitive to use.
 
 ## Usage
-To use the converter, simply run the main.py file. This will launch the GUI, where you can select the WebP file you want to convert and click the "Convert" button to start the conversion process. I also converted the .py file into exe but the file was too big to upload. 
+To use the converter, simply run the main.py file. This will launch the GUI, where you can select the WebP file you want to convert and click the "Convert" button to start the conversion process. I also converted the .py file into exe but the file was too big to upload. Also, I have added an image of a beautiful butterfly as a .webp file for your convenience. :P
 
 ## Requirements
 The converter requires Python 3.x and the PyQt5 library. To install the required dependencies, you can use pip:
