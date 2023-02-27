@@ -7,6 +7,7 @@ To use the converter, simply run the main.py file. This will launch the GUI, whe
 
 ## Requirements
 The converter requires Python 3.x and the PyQt5 library. To install the required dependencies, you can use pip:
+    ```pip install -r requirements.txt```
     pip install -r requirements.txt
 
 ## License
